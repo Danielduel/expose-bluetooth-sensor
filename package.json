@@ -1,0 +1,15 @@
+{
+  "name": "polar-bt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sudo node main.js"
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-14",
+    "@types/noble": "^0.0.40",
+    "node": "10.24.1",
+    "node-bluetooth": "^1.2.6"
+  }
+}
